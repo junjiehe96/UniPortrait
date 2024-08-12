@@ -3,7 +3,7 @@
 
 <a href='https://aigcdesigngroup.github.io/UniPortrait-Page/'><img src='https://img.shields.io/badge/Project-Page-green'></a>
 <a href='https://arxiv.org/abs/xxxx.xxxxx'><img src='https://img.shields.io/badge/Technique-Report-red'></a>
-<a href='https://huggingface.co/spaces/xxxxxx'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue'></a>
+<a href='https://huggingface.co/spaces/Junjie96/UniPortrait'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue'></a>
 
 </div>
 
@@ -17,7 +17,7 @@ UniPortrait is an innovative human image personalization framework. It customize
 
 ## Release
 
-- [2024/08/01] 🔥 We release the [technical report](https://arxiv.org/abs/xxxx.xxxxx), [project page](https://aigcdesigngroup.github.io/UniPortrait-Page/), and [HuggingFace demo](https://huggingface.co/spaces/xxxxxxx) 🤗!
+- [2024/08/12] 🔥 We release the [technical report](https://arxiv.org/abs/xxxx.xxxxx), [project page](https://aigcdesigngroup.github.io/UniPortrait-Page/), and [HuggingFace demo](https://huggingface.co/spaces/Junjie96/UniPortrait) 🤗!
 
 
 ## Applications
