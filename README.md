@@ -11,7 +11,7 @@
 
 
 
-UniPortrait customizes single- and multi-ID images in a unified manner, providing high-fidelity identity preservation, extensive facial editability, free-form text description, and no requirement for a predetermined layout.
+UniPortrait is an innovative human image personalization framework. It customizes single- and multi-ID images in a unified manner, providing high-fidelity identity preservation, extensive facial editability, free-form text description, and no requirement for a predetermined layout.
 
 ---
 
