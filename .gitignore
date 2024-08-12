@@ -1,0 +1,6 @@
+**/__pycache__
+workdir
+**/.vscode
+*.sh
+.idea/
+.DS_Store
