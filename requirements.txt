@@ -1,0 +1,7 @@
+diffusers
+gradio
+onnxruntime-gpu
+insightface
+torch
+tqdm
+transformers
