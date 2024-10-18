@@ -17,7 +17,7 @@ UniPortrait is an innovative human image personalization framework. It customize
 
 ## Release
 
-- [2024/10/18] 🔥 We release the inference code and demo, which has naively integrated [ControlNet](https://github.com/lllyasviel/ControlNet), [IP-Adapter](https://github.com/tencent-ailab/IP-Adapter), and [StyleAligned](https://github.com/google/style-aligned). The weight for this version is consistent with the huggingface space and experiments in the paper. We are now working on generalizing our method to more advanced diffusion models and more general subjects. Please stay tuned!
+- [2024/10/18] 🔥 We release the inference code and demo, which has naively integrated [ControlNet](https://github.com/lllyasviel/ControlNet), [IP-Adapter](https://github.com/tencent-ailab/IP-Adapter), and [StyleAligned](https://github.com/google/style-aligned). The weight for this version is consistent with the huggingface space and experiments in the paper. We are now working on generalizing our method to more advanced diffusion models and more general customized concepts. Please stay tuned!
 - [2024/08/12] 🔥 We release the [technical report](https://arxiv.org/abs/2408.05939), [project page](https://aigcdesigngroup.github.io/UniPortrait-Page/), and [HuggingFace demo](https://huggingface.co/spaces/Junjie96/UniPortrait) 🤗!
 
 ## Quickstart
