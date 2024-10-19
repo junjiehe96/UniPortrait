@@ -52,6 +52,10 @@ python gradio_app.py
 
 <img src='assets/application.png'>
 
+## **Acknowledgements**
+
+This code is built on some excellent repos, including [diffusers](https://github.com/huggingface/diffusers), [IP-Adapter](https://github.com/tencent-ailab/IP-Adapter) and [StyleAligned](https://github.com/google/style-aligned). Highly appreciate their great work!
+
 ## Cite
 
 If you find UniPortrait useful for your research and applications, please cite us using this BibTeX:
