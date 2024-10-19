@@ -75,8 +75,8 @@ class PerceiverAttention(nn.Module):
             attention_mask = torch.cat([attention_mask, torch.ones_like(attention_mask[:, :, :1]).repeat(1, 1, l)],
                                        dim=2)  # b, 1, n1+n2
             attention_mask = (attention_mask - 1.) * 100.  # 0 means kept and -100 means dropped
-            attention_mask = attention_mask.unsqueeze(1).repeat(1, 1, l, 1)
-            weight = weight + attention_mask
+            attention_mask = attention_mask.unsqueeze(1)
+            weight = weight + attention_mask  # b, h, n2, n1+n2
 
         weight = torch.softmax(weight.float(), dim=-1).type(weight.dtype)
         out = weight @ v

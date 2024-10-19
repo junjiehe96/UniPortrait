@@ -298,7 +298,6 @@ class UniPortraitLoRAIPAttnProcessor2_0(nn.Module):
             routing_map = routing_map.transpose(1, 2).unsqueeze(-1)  # bs, num, s*s, 1
         else:
             routing_map = hidden_states.new_ones(size=(1, 1, hidden_states.shape[1], 1))
-        self.attn_map = routing_map  # bs, s*s, num
 
         # for text
         query = attn.to_q(hidden_states)
